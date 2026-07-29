@@ -1,11 +1,7 @@
-Hi, I'm Aiman 👋
+## About
 
-🎨 Graphic Designer
+Hi, I'm Aiman.
 
-✍️ Content Writer
+I recently graduated with a BS in Computer Science and enjoy combining creativity with technology. Currently, I'm building projects, improving my design skills, and exploring branding, content creation, and web development.
 
-💡 Branding
-
-📚 Learning Git & GitHub
-
-🌱 Always learning and building.
+This GitHub is where I'll be sharing my projects, learning in public, and documenting my journey.
